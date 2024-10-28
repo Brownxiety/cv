@@ -1,2 +1,2 @@
 # My Project
-This project is available at [https://github.com/Brownxiety/cv]
+This project is available at [https://github.com/Brownxiety/README.md]
